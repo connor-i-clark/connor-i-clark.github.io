@@ -10,10 +10,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Homepage"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Connor Clark"
+description              : "A website."
 url                      : # the base hostname & protocol for your site e.g. "https://ciclark2.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "ciclark2/ciclark2.github.io"
@@ -84,10 +84,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Connor Clark"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "I am a person."
+  location         : "USA"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
