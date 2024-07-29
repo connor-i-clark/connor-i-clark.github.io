@@ -1,2 +1,2 @@
-# connor-i-clark.github.io
+# ciclark.github.io
 `bundle update`
